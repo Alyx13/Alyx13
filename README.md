@@ -14,4 +14,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Alyx13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyx13&show_icons=true&theme=transparent)
+![Alyx13's GitHub stats]<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=Alyx13&show_icons=true&theme=transparent"/>
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChloee&layout=compact" />
