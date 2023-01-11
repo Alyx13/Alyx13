@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+</a>
+<br/>
+
+<a href=#>
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+<a href="#">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="#">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+</p>
+
+<!-- * 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
+
+* 🎓 Researching on **AI** and **Computer Vision** @ [AICIP Lab](https://aicip.github.io/research.htm).
+
+* 💡 Open to collaborating on projects and innovative ideas. 
+
+* 💻 Currently working on Semantic Segmentation and Reinforcement Learning. -->
+
+
 <!--
 **Alyx13/Alyx13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
