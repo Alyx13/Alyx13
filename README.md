@@ -40,5 +40,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Alyx13&show_icons=true&theme=transparent"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx13&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alyx13&show_icons=true&theme=transparent"/>
+<img align="right" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alyx13&layout=compact" />
