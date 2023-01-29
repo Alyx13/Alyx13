@@ -20,28 +20,12 @@
 </a>
 </p>
 
-<!-- * 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
+- 🔭 I’m currently working on Mods for The Bidning of Issac & some unity projects
+- 🌱 I’m currently learning Game Development
+- 👯 I’m looking to collaborate on Games & Mods for GMod, S&Box, Rust, TBI:REP
+- 📫 How to reach me:(soon)
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: Favroite Games is Metal Gear Solid 3 Snake Eater
 
-* 🎓 Researching on **AI** and **Computer Vision** @ [AICIP Lab](https://aicip.github.io/research.htm).
-
-* 💡 Open to collaborating on projects and innovative ideas. 
-
-* 💻 Currently working on Semantic Segmentation and Reinforcement Learning. -->
-
-
-<!--
-**Alyx13/Alyx13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alyx13&show_icons=true&theme=transparent"/>
 <img align="right" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alyx13&layout=compact" />
