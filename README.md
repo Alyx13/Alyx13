@@ -15,6 +15,9 @@
 <a href="#">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+<a href="https://learn.unity.com/u/61eefb77edbc2a002139086d?tab=profile">
+    <img src="https://img.shields.io/badge/-Unity-grey?style=flat-square&logo=unity&logoColor=white">
+</a>
 </p>
 
 <!-- * 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
