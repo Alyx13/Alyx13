@@ -7,7 +7,7 @@
 <a href=#>
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
-<a href="#">
+<a href="https://www.linkedin.com/in/alexandre-valiquette-096606260/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="#">
