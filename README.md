@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
 <a href="https://github.com/Alyx13">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alexandre+Valiquette;Game Designer+%7C+Programming+Student+%7C+Software+Developer;+%7C+Game+Modder" alt="Typing SVG" />
