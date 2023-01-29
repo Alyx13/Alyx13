@@ -22,8 +22,8 @@
 - 🌱 I’m currently learning Game Development
 - 👯 I’m looking to collaborate on Games & Mods for GMod, S&Box, Rust, TBI:REP
 - 📫 How to reach me:(soon)
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Favroite Games is Metal Gear Solid 3 Snake Eater
+<!-- - 😄 Pronouns: ... -->
 
 <img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alyx13&show_icons=true&theme=transparent"/>
 <img align="right" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alyx13&layout=compact" />
