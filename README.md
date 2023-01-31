@@ -14,7 +14,10 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://learn.unity.com/u/61eefb77edbc2a002139086d?tab=profile">
-    <img src="https://img.shields.io/badge/-Unity-grey?style=flat-square&logo=unity&logoColor=unity">
+    <img src="https://img.shields.io/badge/-Unity Learning-grey?style=flat-square&logo=unity&logoColor=unity">
+</a>
+<a href="https://play.unity.com/u/Alyx13">
+    <img src="https://img.shields.io/badge/-Unity Games-grey?style=flat-square&logo=unity&logoColor=unity">
 </a>
 <a href="https://alyx13.itch.io/">
     <img src="https://img.shields.io/badge/-itch.io-red?style=flat-square&logo=itch.io&logoColor=white">
