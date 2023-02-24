@@ -31,5 +31,26 @@
 - ⚡ Fun fact: Favroite Games is Metal Gear Solid 3 Snake Eater
 <!-- - 😄 Pronouns: ... -->
 
-<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alyx13&show_icons=true&theme=transparent"/>
-<img align="right" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alyx13&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alyx13&show_icons=true&theme=midnight-purple"/>
+<img align="right" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alyx13&layout=compact"/>
+
+<p align="center">
+</a>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
+</a>
+</a>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white">
+</a>
+</a>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white">
+</a>
+</a>
+    <img src="https://img.shields.io/badge/-Java-ED6B21?logo=java&logoColor=white">
+</a>
+</a>
+    <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white">
+</a>
+</a>
+    <img src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white">
+</a>
+<p\>
